@@ -4,3 +4,5 @@ Python OOP models ride sharing with classes like Driver, Rider, and Trip. Object
 
 
 Ride sharing is a modern transportation system that allows people to travel together using mobile applications and online platforms. It connects passengers with drivers who are already traveling in the same direction or are available for hire. Ride sharing services reduce traffic congestion, save travel costs, and decrease environmental pollution by lowering the number of private vehicles on the road. Popular companies like Uber and Lyft have made transportation easier and more convenient for millions of users worldwide. Through GPS tracking, digital payments, and customer ratings, passengers can enjoy safer and faster journeys. Ride sharing also creates flexible job opportunities for drivers who want part-time or full-time income. In many cities, ride sharing has become an essential part of daily commuting, helping people reach destinations quickly, comfortably, and efficiently every day. It also supports smart urban mobility by improving transportation accessibility for students, workers, tourists, and elderly passengers alike globally
+
+
